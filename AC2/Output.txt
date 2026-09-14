@@ -1,0 +1,76 @@
+Exercicio 1
+P original: [2 3]
+P transformado: [6 1]
+
+Exercicio 2
+Triangulo original:
+[[1 1]
+ [3 1]
+ [2 4]]
+Triangulo transformado:
+[[2 2]
+ [6 2]
+ [4 8]]
+
+Exercicio 3
+Triangulo original:
+[[1 1]
+ [3 1]
+ [2 4]]
+Triangulo transformado:
+[[2.  0.5]
+ [6.  0.5]
+ [4.  2. ]]
+
+Exercicio 4
+P original: [1 0]
+P transformado: [6.123234e-17 1.000000e+00]
+
+Exercicio 5
+Quadrado transformado:
+[[ 1.41421356  0.        ]
+ [ 3.53553391  2.12132034]
+ [ 5.65685425  0.        ]
+ [ 3.53553391 -2.12132034]]
+
+Exercicio 6
+P original: [2 5]
+P transformado: [-2  5]
+
+Exercicio 7
+Triangulo transformado:
+[[ 2 -3]
+ [ 4 -3]
+ [ 3 -5]]
+
+Exercicio 8
+P original: [2 3]
+P transformado: [8 3]
+
+Exercicio 9
+Inicial: [3 2]
+Depois da translacao: [4 1]
+Depois da rotacao: [-1.  4.]
+Resultado final: [-2.  8.]
+
+Exercicio 10
+Retangulo original:
+[[1 1]
+ [5 1]
+ [5 3]
+ [1 3]]
+Depois da translacao:
+[[-1  4]
+ [ 3  4]
+ [ 3  6]
+ [-1  6]]
+Depois da escala:
+[[-1.5  2. ]
+ [ 4.5  2. ]
+ [ 4.5  3. ]
+ [-1.5  3. ]]
+Resultado final:
+[[ 1.5  2. ]
+ [-4.5  2. ]
+ [-4.5  3. ]
+ [ 1.5  3. ]]
