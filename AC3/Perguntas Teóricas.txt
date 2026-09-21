@@ -1,0 +1,19 @@
+1)
+A translação altera a posição xyz do objeto no espaço, a rotação modifica sua orientação ao redor de um ponto de referência,
+e a escala altera seu tamanho e suas proporções nos eixos xyz.
+
+2)
+No espaço global, as transformações usam os eixos fixos da cena do Blender,
+enquanto no espaço local são usados os eixos do próprio objeto, que podem mudar de orientação se o objeto é rotacionado.
+
+3)
+Cada eixo representa uma direção diferente no espaço 3d.
+A ordem das rotações podem mudar o resultado porque uma rotação muda a direção dos eixos usados pela próxima transformação.
+
+4)
+O Blender armazena os valores de rotation_euler em radianos.
+A função math.radians() escreve o ângulo em graus, facilitando a leitura, e converte ele para a unidade usada pelo programa.
+
+5)
+Quando é necessário criar muitos objetos, repetir transformações várias vezes, trabalhar com valores exatos ou automatizar.
+Assim, tarefas repetitivas podem ser feitas de maneira mais rápida e consistente.
